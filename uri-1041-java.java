@@ -1,3 +1,8 @@
+//Marina Calheira
+//URI 1041
+//Coordenadas de um Ponto
+//java
+
 import java.util.Scanner;
 public class Main
 {
