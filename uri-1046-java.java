@@ -1,3 +1,8 @@
+//Marina Calheira
+//URI 1046
+//Tempo de Jogo
+//java
+
 import java.util.Scanner;
 public class Main{
 	public static void main(String[] args) {
