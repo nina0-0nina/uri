@@ -1,3 +1,9 @@
+//Marina Calheira
+//URI 1043
+//Triângulo
+//java
+
+
 import java.util.Scanner;
 public class Main
 {
