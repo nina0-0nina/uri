@@ -1,3 +1,8 @@
+//Marina Calheira
+//URI 1040
+//Média 3
+//java
+
 import java.util.Scanner;
 public class Main {
 	public static void main(String[] args) {
